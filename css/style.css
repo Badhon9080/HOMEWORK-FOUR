@@ -1,0 +1,63 @@
+#cit{
+    padding-left: 400px;
+    
+}
+
+h1{
+    color: red;
+    background-color: pink;
+}
+
+
+/* #last{
+    
+    background-color: green;
+} 
+
+#first{
+    background-color: blue;
+} */
+.same{
+    background-color: black;
+}
+.another{
+    font-size: 100px;
+}
+.y{
+    font-size: 20px;
+    color: #333;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-style: wavy ;
+}
+.o{
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}   
+.x{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-style: dottedZ;
+} 
+.q{
+   font-size: 30x;
+   line-height: 2;
+   /*width: 50%; */
+   letter-spacing: 2px;
+   background-image: url(../IMG/b1.jpg);
+   background-position: center;
+   
+   background-size: cover;
+   background-attachment: fixed;
+
+
+
+
+}
+section{
+    font-size: 30px;
+}
+    
